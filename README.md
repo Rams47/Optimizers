@@ -1,4 +1,4 @@
-<div align="center">
+<img width="981" height="90" alt="image" src="https://github.com/user-attachments/assets/b6383954-569b-4001-a8d0-cd115bb86c14" /><div align="center">
   
 # Optimizers from Scratch: Linear Regression
 
@@ -40,7 +40,9 @@ $$y = wx + b$$
 $$L = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
 
 **3. The Gradients (Derivatives for Backpropagation)**
+
 $$\frac{\partial L}{\partial w} = -\frac{2}{n} \sum_{i=1}^{n} x_i (y_i - \hat{y}_i)$$
+
 $$\frac{\partial L}{\partial b} = -\frac{2}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)$$
 
 ---
