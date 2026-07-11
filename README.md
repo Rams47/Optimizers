@@ -60,4 +60,3 @@ $$\frac{\partial L}{\partial b} = -\frac{2}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)$
 ```text
 ├── optimizers_comparison.ipynb   # Main Jupyter Notebook
 ├── README.md                     # Project documentation
-└── requirements.txt              # Dependency list (NumPy, Matplotlib)
