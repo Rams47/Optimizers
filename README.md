@@ -40,8 +40,7 @@ $$y = wx + b$$
 $$L = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
 
 **3. The Gradients (Derivatives for Backpropagation)**
-
-```math
+ ```math
 \begin{aligned}
 \frac{\partial L}{\partial w} &= -\frac{2}{n} \sum_{i=1}^{n} x_i (y_i - \hat{y}_i) \\[1ex]
 \frac{\partial L}{\partial b} &= -\frac{2}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)
