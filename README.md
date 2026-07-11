@@ -1,5 +1,3 @@
-<img width="981" height="90" alt="image" src="https://github.com/user-attachments/assets/b6383954-569b-4001-a8d0-cd115bb86c14" /><div align="center">
-  
 # Optimizers from Scratch: Linear Regression
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
