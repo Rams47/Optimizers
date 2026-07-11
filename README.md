@@ -15,7 +15,6 @@
 - [Mathematical Foundation](#-mathematical-foundation)
 - [Implemented Optimizers](#-implemented-optimizers)
 - [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
 
 ---
 
